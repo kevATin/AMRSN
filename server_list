@@ -1,0 +1,42 @@
+#Port= The port this server runs on.
+#Name= The server name, map name, and directory name of this server. mmorpg_lobby is an exception and has the server name "MMORPG".
+#Theme= The general purpose and feel of this server.
+#port;name;theme
+27300;mmorpg_lobby;
+27301;mmorpg_overworld_northwest;ice, snow, mountains
+27302;mmorpg_overworld_north;mountains, caves
+27303;mmorpg_overworld_northeast;mountains, skies, floating islands
+27304;mmorpg_overworld_west;ocean, top:icebergs, middle: island, bottom: beaches, left: underwater
+27305;mmorpg_overworld_center;mostly plains and hills
+27306;mmorpg_overworld_east;forests, wide plains, right: abyss
+27307;mmorpg_overworld_southwest;desert, bottom: volcano, right: savanna
+27308;mmorpg_overworld_south;left: savanna, right: jungle
+27309;mmorpg_overworld_southeast;forest
+27310;mmorpg_overworld_north_city;
+27311;mmorpg_overworld_west_city;
+27312;mmorpg_overworld_center_city;
+27313;mmorpg_overworld_east_city;
+27314;mmorpg_overworld_south_city;
+27315;mmorpg_underworld_northwest;
+27316;mmorpg_underworld_north;
+27317;mmorpg_underworld_northeast;
+27318;mmorpg_underworld_west;
+27319;mmorpg_underworld_center;
+27320;mmorpg_underworld_east;
+27321;mmorpg_underworld_southwest;
+27322;mmorpg_underworld_south;
+27323;mmorpg_underworld_southeast;
+27324;mmorpg_sky_northwest;
+27325;mmorpg_sky_north;
+27326;mmorpg_sky_northeast;
+27327;mmorpg_sky_west;
+27328;mmorpg_sky_center;
+27329;mmorpg_sky_east;
+27330;mmorpg_sky_southwest;
+27331;mmorpg_sky_south;
+27332;mmorpg_sky_southeast;
+27333;mmorpg_overworld_center_city_football_indoor;
+27334;mmorpg_overworld_east_football_outdoor;on the plains
+27335;mmorpg_overworld_east_city_football_whl;
+27336;mmorpg_overworld_west_volleyball;beach volleyball
+27337;mmorpg_overworld_south_city_dodgeball;
