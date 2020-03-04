@@ -10,4 +10,5 @@
 8. Remove bouncy walls from server list display and filter and in-game tablist (I just hate that setting, make your walls bouncy via the map editor directly)
 9. Allow receiving and displaying custom gamemode names in the serverlist; regardless of map name
 10. Mute certain (all?) server messages like gravity change, etc
-11. 
+11. Remember last used password for servers that require passwords
+12. 
