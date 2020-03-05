@@ -21,6 +21,7 @@ Ideas regarding coordination of multiple (unrelated) servers;
 * notification setting for minimum time between individual notifications about the same server
 * notification setting for minimum time between individual notifications about different servers
 * ability to link chats from multiple servers, and also with external chats?
+* ability to notify spectating players about map/gamemode changes on the server they're online on (using the OS app to detect if the altitude client is focused?)
 
 * player options: on website a player can enter their username/VaporID and request a passphrase; the bot then sends that player a message with a code if they're online; that code can then be entered on the website to enable the player to set up their notification settings in depth; could this also be used to allow custom settings for individual discord channels etc?
 
