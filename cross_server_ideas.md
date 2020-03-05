@@ -12,7 +12,7 @@ Ideas regarding coordination of multiple (unrelated) servers;
 * website shows vapor/nimbly main server uptime status
 * website shows player amount statistics (is this useful? https://altitudegame.com/genimg/playersToday.png )
 * if vapor server appears to be offline send an alert to certain people so we can shout at the nimbly guys
-* integration with other platforms? (steam, discord, whatsapp, telegram, sms?, email, matrix, etc)
+* integration with other platforms? (steam, discord, whatsapp, telegram, sms?, email, matrix, xmpp, irc, etc)
 * add those fancy website notifications
 * website needs to work on mobile
 * application to register custom URI on Linux, Windows, and macOS; altitude:IP:Port:[Password]:[special message that is sent to the main server upon connecting]
@@ -20,6 +20,7 @@ Ideas regarding coordination of multiple (unrelated) servers;
 * notification setting for minimum number of online players to notify
 * notification setting for minimum time between individual notifications about the same server
 * notification setting for minimum time between individual notifications about different servers
+* ability to link chats from multiple servers, and also with external chats?
 
 * player options: on website a player can enter their username/VaporID and request a passphrase; the bot then sends that player a message with a code if they're online; that code can then be entered on the website to enable the player to set up their notification settings in depth; could this also be used to allow custom settings for individual discord channels etc?
 
@@ -56,6 +57,6 @@ Variables:
 * ping (average ping of connected players?)
 
 AltiArcade:
-* a lobby server that players can idle in while waiting for other players
+* a lobby server that players can idle and chat while waiting for other players
 * has portals to all popular servers
 * regularly broadcast the status of all connected servers in-game
