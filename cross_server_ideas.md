@@ -29,6 +29,10 @@ Custom data sent to the main server that the vapor server doesn't support:
 * custom gamemode string, potentially only allow chosing from a pre-defined list
 * 
 
+Server Mod:
+* ask Biell and Brain to add support in their server wrappers, so no bot is needed for servers running their software
+* 
+
 Server Index Entry Data:
 grouped by server group?
 * server name
