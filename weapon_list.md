@@ -64,7 +64,6 @@ activation requirements:
 * Brain's rumble, different intensities?
 * Brain's gravity inversion
 * Slippery Floor
-* Suicide, instantly kills player upon usage, may be useful on coop maps with bouncy walls where self kills aren't quickly do-able, if possible it shouldn't give your last attacker a kill so it can be used to avoid giving the enemy veteran bars
 * Boost, similar to the miranda dash, but for every plane and can't skip through walls, useful for escaping stalling
 * Ninja teleport, got the idea while watching some newbies with bad ping skip around the map, requires jar modding or packet filter firewall,
 
@@ -76,4 +75,4 @@ Superpowers:
 * Small Boost:
 * Medium Boost:
 * Big Boost: any plane, any red perk, no green perk, no blue perk, warmup 5s, cooldown 20s, using secondary attack when ready activates the ability, using secondary attack during warmup or cooldown works as normal
-* Suicide: any plane, any red perk, either green or blue perk has to be empty (or both), 
+* Suicide: any plane, any red perk, either green or blue perk has to be empty (or both), to activate use primary attack while stalled while facing downwards, immediately kills plane, doesn't give attackers a kill?
