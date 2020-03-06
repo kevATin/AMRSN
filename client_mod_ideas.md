@@ -12,4 +12,4 @@
 10. Mute certain (all?) server messages like gravity change, etc
 11. Remember last used password for servers that require passwords
 12. When a player is in spectator mode, don't show anyones powerups, unless the player is an admin (add separate permission?)
-13. 
+13. color codes in names and chat?
