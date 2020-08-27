@@ -13,3 +13,4 @@
 11. Remember last used password for servers that require passwords
 12. When a player is in spectator mode, don't show anyones powerups, unless the player is an admin (add separate permission?)
 13. color codes in names and chat?
+14. Show player health, energy, thrust, veteran bars, etc and also allow custom per server/map info like carries bomb, ball, keys, etc - in tab gui
