@@ -9,9 +9,12 @@
 #2 etc
 
 #2 Virus
+Type: asymmetric teams, time based
 other name ideas: infection, zombie something?  
+
 Green Team:  
 Goal: infect all players of the other team before the time runs out  
+starts with only 1 player?  
 
 Orange Team:  
 Goal: avoid getting infected by the other team  
