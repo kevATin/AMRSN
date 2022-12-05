@@ -1,8 +1,3 @@
-# JAR-mod wishlist:
-* ability to set weapon mode per player (and bot)
-* ability to set health per player (and bot)
-* ability to set gravity per player (and bot; potential issues with projectiles?)
-
 # Powerups:
 powerup texture/selector: health (always for autouse), shield, missile, wall, bomb, demolition charge, ball;  
 can be set for a specific team or neutral  
